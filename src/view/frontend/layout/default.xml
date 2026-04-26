@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * @description Default layout customizations
+ * @author      C. M. de Picciotto <d3p1@d3p1.dev> (https://d3p1.dev/)
+ */
+-->
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <body>
+        <referenceContainer name="header-wrapper">
+            <block class="Magento\Theme\Block\Html\Header" name="header.sticky"
+                   template="D3p1_StickyHeader::html/header/sticky.phtml" ifconfig="design/header/sticky"/>
+        </referenceContainer>
+    </body>
+</page>

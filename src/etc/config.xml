@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * @description Config
+ * @author      C. M. de Picciotto <d3p1@d3p1.dev> (https://d3p1.dev/)
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <design>
+            <header>
+                <sticky>1</sticky>
+            </header>
+        </design>
+    </default>
+</config>
