@@ -1,6 +1,6 @@
 {
     "name": "@d3p1/module-sticky-header",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "description": "Sticky header",
     "private": true,
     "scripts": {

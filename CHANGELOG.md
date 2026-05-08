@@ -1,3 +1,10 @@
+# 1.0.0 (2026-05-08)
+
+
+### Features
+
+* init [[#1](https://github.com/d3p1/magento2-sticky-header/issues/1)] ([12bc626](https://github.com/d3p1/magento2-sticky-header/commit/12bc62674039c79097da9692edb13b8d50c2d601))
+
 # 1.0.0 (2026-04-22)
 
 
